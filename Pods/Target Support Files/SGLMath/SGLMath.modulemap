@@ -1,0 +1,6 @@
+framework module SGLMath {
+  umbrella header "SGLMath-umbrella.h"
+
+  export *
+  module * { export * }
+}
